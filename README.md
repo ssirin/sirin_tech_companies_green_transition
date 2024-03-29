@@ -1,1 +1,1 @@
-# sirin_tech_companies_green_transition
+Sirin & Yilmaz, "The green transition and tech firms’ financial performance: Insights from patent data "
